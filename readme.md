@@ -1,0 +1,1 @@
+Some clustering exercises and projects to help you understand how clustering works in ML
